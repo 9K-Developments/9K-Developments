@@ -1,7 +1,7 @@
-# <div align="center">🚀 9K | 数字宇宙缔造者 & 技术炼金术士 🌌</div>
+# <div align="center">🚀 9K | 全栈开发者 🌌</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73A&center=true&vCenter=true&width=435&lines=嘿..+我是+9K;全栈开发者+%26+技术艺术家;FiveM脚本开发专家;创新解决方案缔造者" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=80&lines=嘿...+我是+9K;全栈开发者+%26+技术艺术家;FiveM脚本开发专家;创新解决方案缔造者" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
