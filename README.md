@@ -16,34 +16,34 @@
 
 我精通的编程语言和技术栈形成了一个全方位的技术矩阵，使我能够应对各种复杂挑战：
 
-### 游戏开发与互动体验
-- **Lua** 🌙: 游戏脚本开发领域的核心语言，为FiveM构建沉浸式体验与复杂系统架构的首选工具。🎮
-- **C++** 💻: 高性能计算与系统级编程的旗舰语言，实现极致优化与卓越效能。⚙️🚀
-- **C#** 🎯: 游戏开发与企业应用的强大工具，结合Unity框架创造无限可能。🏆
-- **Rust** 🦀: 系统编程的革命性语言，在保障内存安全的同时提供接近C++的极致性能。🔒
+### 🎮 沉浸式互动技术中枢
+- **Lua** <img src="https://img.shields.io/badge/掌握度-宗师级-gold?style=flat-square" />: 游戏脚本领域的灵魂语言，以其卓越的嵌入性与轻量级架构，成就FiveM生态中最具革命性的交互体验与系统框架。
+- **C++** <img src="https://img.shields.io/badge/掌握度-专家级-blue?style=flat-square" />: 底层系统与高性能计算的王者之选，通过精确内存管理与编译优化，实现接近硬件的极限性能表现。
+- **C#** <img src="https://img.shields.io/badge/掌握度-精通-green?style=flat-square" />: 现代游戏开发与企业级应用的完美融合，借助Unity生态系统构筑跨平台互动体验的理想平台。
+- **Rust** <img src="https://img.shields.io/badge/掌握度-高级-purple?style=flat-square" />: 新世代系统编程的安全卫士，零成本抽象与所有权模型重新定义了高性能与内存安全的平衡点。
 
-### 全栈开发精华
-- **JavaScript & TypeScript** 🟨: 构建响应式前端与高效后端的双璧，从**Vue**驱动的动态界面到Node.js支持的微服务架构，无所不能。💻⚡
-- **HTML5 & CSS3** 🌐: 前端开发的艺术画布，通过精湛技艺打造视觉震撼与用户体验的完美结合。🎨🌟
-- **Python** 🐍: 全能型语言，在AI、数据分析、自动化与web开发领域展现非凡实力。📊🤖
-- **Golang (Go)** 🐹: 云原生时代的瑞士军刀，以其卓越的并发性能重塑服务端开发范式。💡☁️
-- **Java** ☕: 企业级应用的基石，构建可扩展、高可靠性系统的不二之选。🔧
+### 💻 全栈工程技术矩阵
+- **JavaScript & TypeScript** <img src="https://img.shields.io/badge/掌握度-宗师级-gold?style=flat-square" />: 现代web生态的核心引擎，从**Vue**驱动的响应式前端到基于Node.js的微服务架构，构建无缝衔接的全栈体验。
+- **HTML5 & CSS3** <img src="https://img.shields.io/badge/掌握度-专家级-blue?style=flat-square" />: 数字体验的视觉画布，通过精湛的布局技术与动效设计，打造兼具美学价值与用户体验的界面艺术。
+- **Python** <img src="https://img.shields.io/badge/掌握度-宗师级-gold?style=flat-square" />: 科技领域的瑞士军刀，在人工智能、数据科学、自动化工程等多维度展现非凡适应力与处理能力。
+- **Golang (Go)** <img src="https://img.shields.io/badge/掌握度-专家级-blue?style=flat-square" />: 云原生时代的高并发利器，以其卓越的协程模型与简洁语法重塑现代服务端开发标准。
+- **Java** <img src="https://img.shields.io/badge/掌握度-专家级-blue?style=flat-square" />: 企业级分布式系统的中流砥柱，为大型组织提供稳定、可扩展的技术底座与解决方案。
 
-### 专业语言矩阵
-- **Ruby** 💎: 以简洁优雅著称，实现快速原型设计与精致web应用的理想选择。🚀
-- **PHP** 🐘: 强大的服务端脚本语言，在内容管理系统与企业应用中大显身手。🌐
-- **Swift & SwiftUI** 🍎: Apple生态系统的现代开发语言，缔造流畅、安全的iOS/macOS体验。📱
-- **Kotlin** 🤖: 现代JVM语言，为Android开发带来革命性的简洁与高效。📲
-- **Scala** 📈: 函数式与面向对象编程的完美融合，为复杂业务场景提供高扩展性解决方案。🔥
+### 🚀 专业语言战略储备
+- **Ruby** <img src="https://img.shields.io/badge/掌握度-高级-purple?style=flat-square" />: 以"开发者幸福感"著称的优雅语言，通过约定优于配置的理念，实现快速原型与精致应用开发。
+- **PHP** <img src="https://img.shields.io/badge/掌握度-专家级-blue?style=flat-square" />: Web开发领域的老将新秀，在现代框架加持下焕发第二春，支撑各类内容平台与企业系统。
+- **Swift & SwiftUI** <img src="https://img.shields.io/badge/掌握度-高级-purple?style=flat-square" />: Apple生态的现代化利剑，通过声明式UI与强类型系统，构建流畅、安全的iOS/macOS原生体验。
+- **Kotlin** <img src="https://img.shields.io/badge/掌握度-高级-purple?style=flat-square" />: JVM平台的现代继承者，为Android开发注入函数式编程理念与简洁表达力。
+- **Scala** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 函数式与面向对象范式的完美结合，在大数据处理与复杂业务系统中展现独特魅力。
 
-### 前沿技术探索
-- **Haskell** 📚: 纯函数式编程的殿堂级语言，以其强大类型系统解决复杂问题的优雅方案。✨
-- **Elixir & Phoenix** 💡: 构建容错性高的分布式系统，特别适合实时应用与高并发场景。🌐
-- **Clojure** 🔄: 现代Lisp方言，提供强大的并发支持与函数式编程特性。🧠
-- **R** 📊: 统计计算与数据可视化的专业工具，为数据科学项目提供深度洞察。🔍
-- **MATLAB** 🔬: 科学计算的行业标准，在工程模拟与科研领域发挥关键作用。📐
-- **Perl** 🐪: 强大的文本处理能力，在系统管理与脚本自动化方面独具匠心。🖥️
-- **Objective-C** 📱: Apple平台开发的经典基石，处理复杂遗留系统的专业工具。💼
+### 🔬 前沿技术探索实验室
+- **Haskell** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 纯函数式编程的学术圣殿，以其强大类型系统与懒求值策略解锁编程的数学之美。
+- **Elixir & Phoenix** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 基于Erlang VM的高容错分布式系统框架，为实时应用与高并发场景提供理想解决方案。
+- **Clojure** <img src="https://img.shields.io/badge/掌握度-入门-red?style=flat-square" />: JVM上的现代Lisp方言，通过不可变数据结构与宏系统重新定义并发编程范式。
+- **R** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 统计分析与数据可视化的专业工具链，为科研成果与商业决策提供数据支撑。
+- **MATLAB** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 工程计算与科学模拟的工业标准，在学术界与工程领域拥有广泛应用场景。
+- **Perl** <img src="https://img.shields.io/badge/掌握度-中级-orange?style=flat-square" />: 文本处理的鼻祖语言，在系统管理与自动化工作流中仍然发挥着不可替代的作用。
+- **Objective-C** <img src="https://img.shields.io/badge/掌握度-高级-purple?style=flat-square" />: Apple平台的传统基石，对接复杂遗留系统与底层框架的专业工具。
 
 ## 🏆 专业成就与协作
 
@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Website-9k-developments.com-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Website-9k--developments.com-blue?style=flat-square" />
 </div>
 
 <div align="center">感谢您访问我的专业展示。如果您对技术创新、游戏开发或潜在合作感兴趣，欢迎与我联系。让我们用代码与创意点亮世界！💫</div>
