@@ -69,11 +69,11 @@ Currently, I work in the vibrant tech hub — **Shenzhen, China** <img src="http
 
 I have always adhered to the following core values in my technological innovation and project development:
 
-- **Excellence**：Every line of code is meticulously polished, and every interface is力求完美
-- **User-Centered**：Deeply understand user needs and create experiences beyond expectations
-- **Innovative Thinking**：Break through conventional thinking to find unique solutions
-- **Continuous Learning**：Continuously explore new technologies and keep up with industry trends
-- **Efficient Collaboration**：Believe in the power of teams and promote open and transparent communication and collaboration
+- **Excellence**: Every line of code is meticulously polished, and every interface strives for perfection
+- **User-Centered**: Deeply understand user needs and create experiences beyond expectations
+- **Innovative Thinking**: Break through conventional thinking to find unique solutions
+- **Continuous Learning**: Continuously explore new technologies and keep up with industry trends
+- **Efficient Collaboration**: Believe in the power of teams and promote open and transparent communication and collaboration
 
 ## 💻 Programming Languages
 
@@ -111,29 +111,29 @@ As a versatile engineer, I am proficient in various programming languages, each 
 ### Language Specialization
 
 🔹 **Scripting and Game Development**
-- **Lua**：FiveM server script, game mod, and plugin development
-- **C#**：Unity game development, .NET applications, and services
-- **C++**：High-performance game engine development, system-level programming
+- **Lua**: FiveM server script, game mod, and plugin development
+- **C#**: Unity game development, .NET applications, and services
+- **C++**: High-performance game engine development, system-level programming
 
 🔹 **Full Stack Web Development**
-- **JavaScript/TypeScript**：Frontend framework applications, Node.js backend services
-- **HTML5/CSS3**：Responsive layout, interactive interface design
-- **PHP**：Traditional Web applications, CMS system customization
+- **JavaScript/TypeScript**: Frontend framework applications, Node.js backend services
+- **HTML5/CSS3**: Responsive layout, interactive interface design
+- **PHP**: Traditional Web applications, CMS system customization
 
 🔹 **Mobile and Cross-Platform Development**
-- **Swift/Objective-C**：iOS application development and optimization
-- **Kotlin/Java**：Android platform applications
-- **Dart**：Flutter cross-platform mobile applications
+- **Swift/Objective-C**: iOS application development and optimization
+- **Kotlin/Java**: Android platform applications
+- **Dart**: Flutter cross-platform mobile applications
 
 🔹 **Data Processing and Analysis**
-- **Python**：AI/ML models, data analysis, automation scripting
-- **R**：Statistical analysis, data visualization, data mining
-- **Scala**：Big data processing, Spark applications
+- **Python**: AI/ML models, data analysis, automation scripting
+- **R**: Statistical analysis, data visualization, data mining
+- **Scala**: Big data processing, Spark applications
 
 🔹 **System and Cloud Native Development**
-- **Go**：Microservices architecture, cloud native applications
-- **Rust**：Security-critical systems, high-performance applications
-- **Bash/PowerShell**：Automation deployment, system management
+- **Go**: Microservices architecture, cloud native applications
+- **Rust**: Security-critical systems, high-performance applications
+- **Bash/PowerShell**: Automation deployment, system management
 
 ## 🛠️ Frameworks and Tools
 
@@ -172,26 +172,26 @@ Frameworks and tools form the backbone of my development process, enabling me to
 ### Framework Specialization
 
 🔹 **Frontend Development Frameworks**
-- **React Ecosystem**：Dynamic user interfaces through React.js, Next.js, and Redux
-- **Vue Ecosystem**：Responsive applications through Vue.js, Nuxt.js, and Vuex
-- **Design Systems**：Styling frameworks like Tailwind CSS, Bootstrap, Material UI
+- **React Ecosystem**: Dynamic user interfaces through React.js, Next.js, and Redux
+- **Vue Ecosystem**: Responsive applications through Vue.js, Nuxt.js, and Vuex
+- **Design Systems**: Styling frameworks like Tailwind CSS, Bootstrap, Material UI
 
 🔹 **Backend Technology Stack**
-- **Node.js Ecosystem**：API and microservices based on Express.js, NestJS, Fastify
-- **Python Web Frameworks**：Efficient backend services through Django, Flask, FastAPI
-- **Enterprise-Level Java/C#**：Scalable business applications through Spring Boot, ASP.NET Core
+- **Node.js Ecosystem**: API and microservices based on Express.js, NestJS, Fastify
+- **Python Web Frameworks**: Efficient backend services through Django, Flask, FastAPI
+- **Enterprise-Level Java/C#**: Scalable business applications through Spring Boot, ASP.NET Core
 
 🔹 **Mobile Application Frameworks**
-- **Cross-Platform Solutions**：Unified codebase for Flutter, React Native
-- **Native Technologies**：Platform-specific optimizations for SwiftUI, Jetpack Compose
+- **Cross-Platform Solutions**: Unified codebase for Flutter, React Native
+- **Native Technologies**: Platform-specific optimizations for SwiftUI, Jetpack Compose
 
 🔹 **Artificial Intelligence and Data Science**
-- **Machine Learning Frameworks**：Intelligent models through TensorFlow, PyTorch, Scikit-learn
-- **Data Processing Tools**：Large-scale data analysis through Pandas, NumPy, Apache Spark
+- **Machine Learning Frameworks**: Intelligent models through TensorFlow, PyTorch, Scikit-learn
+- **Data Processing Tools**: Large-scale data analysis through Pandas, NumPy, Apache Spark
 
 🔹 **Game Development Engines**
-- **Mainstream Engines**：3D game development through Unity, Unreal Engine
-- **Lightweight Frameworks**：Independent game creation through Godot, Phaser
+- **Mainstream Engines**: 3D game development through Unity, Unreal Engine
+- **Lightweight Frameworks**: Independent game creation through Godot, Phaser
 
 ## 🛢️ Database Technologies
 
@@ -217,19 +217,19 @@ In the data-driven world, choosing the right data storage solution is crucial. I
 I am proficient in the pros and cons of different types of databases and can design the most suitable data architecture for various application scenarios:
 
 🔹 **Relational Databases**
-- **MySQL/MariaDB**：Reliable choice for enterprise applications, providing transaction support for e-commerce platforms
-- **PostgreSQL**：Geographic information system and complex data type applications, supporting advanced analytical functions
-- **SQLite**：Lightweight data storage for mobile applications, ensuring offline functionality
+- **MySQL/MariaDB**: Reliable choice for enterprise applications, providing transaction support for e-commerce platforms
+- **PostgreSQL**: Geographic information system and complex data type applications, supporting advanced analytical functions
+- **SQLite**: Lightweight data storage for mobile applications, ensuring offline functionality
 
 🔹 **NoSQL Databases**
-- **MongoDB**：Flexible document storage for content management systems
-- **Redis**：High-performance caching and real-time leaderboard system, reducing main database load
-- **Cassandra**：Distributed large-scale data writing, suitable for IoT data collection
+- **MongoDB**: Flexible document storage for content management systems
+- **Redis**: High-performance caching and real-time leaderboard system, reducing main database load
+- **Cassandra**: Distributed large-scale data writing, suitable for IoT data collection
 
 🔹 **Professional Databases**
-- **Elasticsearch**：Full-text search engine, providing fast search functionality for product catalog
-- **Neo4j**：Relational graph database, used for social network and complex relationship analysis
-- **InfluxDB**：Time-series database, suitable for monitoring indicators and sensor data storage
+- **Elasticsearch**: Full-text search engine, providing fast search functionality for product catalog
+- **Neo4j**: Relational graph database, used for social network and complex relationship analysis
+- **InfluxDB**: Time-series database, suitable for monitoring indicators and sensor data storage
 
 ### Database Case Application
 
@@ -279,29 +279,29 @@ In today's fast-paced digital environment, cloud technology is the pillar of sca
 I have extensive professional knowledge in the cloud technology field and can design, implement, and manage complex cloud infrastructure:
 
 🔹 **Infrastructure as Code (IaC)**
-- **Terraform**：Managing multi-cloud infrastructure through declarative code
-- **CloudFormation**：Automated deployment for AWS environment
-- **ARM Templates**：Standardized configuration for Azure resources
+- **Terraform**: Managing multi-cloud infrastructure through declarative code
+- **CloudFormation**: Automated deployment for AWS environment
+- **ARM Templates**: Standardized configuration for Azure resources
 
 🔹 **Container Orchestration and Microservices**
-- **Kubernetes**：Large-scale container cluster management and service orchestration
-- **Docker Swarm**：Lightweight container coordination
-- **Service Mesh**：Using Istio/Linkerd to enhance microservice communication
+- **Kubernetes**: Large-scale container cluster management and service orchestration
+- **Docker Swarm**: Lightweight container coordination
+- **Service Mesh**: Using Istio/Linkerd to enhance microservice communication
 
 🔹 **Continuous Integration/Continuous Deployment (CI/CD)**
-- **GitHub Actions**：Automated workflow for code changes
-- **Jenkins**：Enterprise-level continuous integration system
-- **ArgoCD**：GitOps continuous deployment for Kubernetes
+- **GitHub Actions**: Automated workflow for code changes
+- **Jenkins**: Enterprise-level continuous integration system
+- **ArgoCD**: GitOps continuous deployment for Kubernetes
 
 🔹 **Monitoring and Observability**
-- **Prometheus + Grafana**：Real-time performance monitoring and visualization
-- **ELK Stack**：Centralized log analysis and management
-- **Datadog/New Relic**：Application performance monitoring solutions
+- **Prometheus + Grafana**: Real-time performance monitoring and visualization
+- **ELK Stack**: Centralized log analysis and management
+- **Datadog/New Relic**: Application performance monitoring solutions
 
 🔹 **Cloud Security and Compliance**
-- **IAM**：Fine-grained access control strategy
-- **Security Groups**：Access restriction based on network layer
-- **Key Management**：Secure storage and use of sensitive data
+- **IAM**: Fine-grained access control strategy
+- **Security Groups**: Access restriction based on network layer
+- **Key Management**: Secure storage and use of sensitive data
 
 ### Cloud Architecture Case Application
 
@@ -338,21 +338,21 @@ As a seasoned FiveM script developer, I specialize in creating immersive game ex
 I have extensive professional knowledge in the game development field and can participate in the game creation process from concept to release:
 
 🔹 **FiveM & GTA Customization**
-- **Framework Development**：Creating modular, high-performance role-playing server framework
-- **UI Design**：Creating beautiful, intuitive game interfaces and HUD systems
-- **Script System**：Developing complex game mechanisms and interactive elements
-- **Performance Optimization**：Ensuring server smooth operation under high player count
+- **Framework Development**: Creating modular, high-performance role-playing server framework
+- **UI Design**: Creating beautiful, intuitive game interfaces and HUD systems
+- **Script System**: Developing complex game mechanisms and interactive elements
+- **Performance Optimization**: Ensuring server smooth operation under high player count
 
 🔹 **3D Game Development**
-- **Unity Engine**：C# cross-platform 3D and 2D game development
-- **Unreal Engine**：Using Blueprints and C++ to create high-quality games
-- **Godot Engine**：Lightweight independent game development
+- **Unity Engine**: C# cross-platform 3D and 2D game development
+- **Unreal Engine**: Using Blueprints and C++ to create high-quality games
+- **Godot Engine**: Lightweight independent game development
 
 🔹 **Game System Design**
-- **Economy System**：Balanced game economy and transaction mechanism
-- **Task System**：Engaging storylines and player progress tracking
-- **Multiplayer Networking**：Low-latency synchronization and data consistency
-- **AI Behavior**：Vivid, intelligent NPC interaction system
+- **Economy System**: Balanced game economy and transaction mechanism
+- **Task System**: Engaging storylines and player progress tracking
+- **Multiplayer Networking**: Low-latency synchronization and data consistency
+- **AI Behavior**: Vivid, intelligent NPC interaction system
 
 ### Game Development Case Project
 
@@ -391,16 +391,16 @@ As a full stack developer, I am not only proficient in code but also skilled in 
 I use user-centered design methodology to ensure each interface is both beautiful and efficient:
 
 🔹 **User Experience Design**
-- **User Research**：Deeply understand target group needs and behavior patterns
-- **User Flow**：Design intuitive and efficient operation paths
-- **Interaction Design**：Creating natural, enjoyable interaction experiences
-- **A/B Testing**：Optimizing design decisions through data-driven optimization
+- **User Research**: Deeply understand target group needs and behavior patterns
+- **User Flow**: Design intuitive and efficient operation paths
+- **Interaction Design**: Creating natural, enjoyable interaction experiences
+- **A/B Testing**: Optimizing design decisions through data-driven optimization
 
 🔹 **Visual Design**
-- **UI System**：Creating consistent, scalable interface component library
-- **Responsive Design**：Ensuring optimal display effect on various devices
-- **Animation Design**：Enhancing subtle interactive animations for user experience
-- **Brand Consistency**：Integrating brand elements seamlessly into interface design
+- **UI System**: Creating consistent, scalable interface component library
+- **Responsive Design**: Ensuring optimal display effect on various devices
+- **Animation Design**: Enhancing subtle interactive animations for user experience
+- **Brand Consistency**: Integrating brand elements seamlessly into interface design
 
 ### UI/UX Design Case
 
@@ -441,19 +441,19 @@ I am proficient in modern DevOps practices and tools, ensuring efficient, automa
 I implement comprehensive DevOps methodology to promote seamless collaboration between development and operations:
 
 🔹 **Version Control and Collaboration**
-- **Git Workflow**：Implement effective branch strategy and code review process
-- **Team Collaboration**：Standardize code submission conventions and document management
-- **Issue Tracking**：Structured management of tasks and error fixes
+- **Git Workflow**: Implement effective branch strategy and code review process
+- **Team Collaboration**: Standardize code submission conventions and document management
+- **Issue Tracking**: Structured management of tasks and error fixes
 
 🔹 **Automation and Integration**
-- **CI/CD Pipeline**：Fully automated build, test, and deployment
-- **Infrastructure Management**：Environment consistency and configuration automation
-- **Quality Assurance**：Automated testing and code quality check
+- **CI/CD Pipeline**: Fully automated build, test, and deployment
+- **Infrastructure Management**: Environment consistency and configuration automation
+- **Quality Assurance**: Automated testing and code quality check
 
 🔹 **Monitoring and Feedback**
-- **System Monitoring**：Comprehensive performance and error tracking
-- **User Feedback**：Integrating user experience data into development cycle
-- **Continuous Improvement**：Optimizing process based on feedback and indicators
+- **System Monitoring**: Comprehensive performance and error tracking
+- **User Feedback**: Integrating user experience data into development cycle
+- **Continuous Improvement**: Optimizing process based on feedback and indicators
 
 ### Professional Certification and Qualification
 
