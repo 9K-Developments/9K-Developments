@@ -254,6 +254,9 @@ In today's fast-paced digital environment, cloud technology is the pillar of sca
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALIYUN-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENCENT_CLOUD-2B9BD5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUAWEI_CLOUD-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -282,26 +285,31 @@ I have extensive professional knowledge in the cloud technology field and can de
 - **Terraform**: Managing multi-cloud infrastructure through declarative code
 - **CloudFormation**: Automated deployment for AWS environment
 - **ARM Templates**: Standardized configuration for Azure resources
+- **Alibaba Cloud ROS**: Resource Orchestration Service for Alibaba Cloud
 
 🔹 **Container Orchestration and Microservices**
 - **Kubernetes**: Large-scale container cluster management and service orchestration
 - **Docker Swarm**: Lightweight container coordination
 - **Service Mesh**: Using Istio/Linkerd to enhance microservice communication
+- **阿里云SAE**: Serverless Application Engine for microservices
 
 🔹 **Continuous Integration/Continuous Deployment (CI/CD)**
 - **GitHub Actions**: Automated workflow for code changes
 - **Jenkins**: Enterprise-level continuous integration system
 - **ArgoCD**: GitOps continuous deployment for Kubernetes
+- **Tencent Cloud CODING DevOps**: One-stop development management platform
 
 🔹 **Monitoring and Observability**
 - **Prometheus + Grafana**: Real-time performance monitoring and visualization
 - **ELK Stack**: Centralized log analysis and management
 - **Datadog/New Relic**: Application performance monitoring solutions
+- **Alibaba Cloud ARMS**: Application Real-time Monitoring Service
 
 🔹 **Cloud Security and Compliance**
 - **IAM**: Fine-grained access control strategy
 - **Security Groups**: Access restriction based on network layer
 - **Key Management**: Secure storage and use of sensitive data
+- **Tencent Cloud Tianyu**: Comprehensive security protection system
 
 ### Cloud Architecture Case Application
 
