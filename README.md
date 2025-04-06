@@ -537,7 +537,7 @@ I welcome discussions about technology, project collaborations, or career opport
 
 <div align="center">
   <a href="https://9k-developments.com"><img src="https://img.shields.io/badge/Website-9k--developments.com-blue?style=flat-square" /></a>
-  <a href="https://discord.gg/TP5vWw93BA"><img src="https://img.shields.io/badge/Discord-9K_Community-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/MD4fhFbuwD"><img src="https://img.shields.io/badge/Discord-9K_Community-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/9K-Developments"><img src="https://img.shields.io/badge/GitHub-9K--Developments-black?style=flat-square&logo=github" /></a>
 </div>
 
