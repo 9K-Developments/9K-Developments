@@ -1,6 +1,10 @@
 # <div align="center">🚀 9K | 数字宇宙缔造者 & 技术炼金术士 🌌</div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73A&center=true&vCenter=true&width=435&lines=嘿..+我是+9K;全栈开发者+%26+技术艺术家;FiveM脚本开发专家;创新解决方案缔造者" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/专业-全栈开发-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/位置-中国深圳-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/状态-接受合作-success?style=for-the-badge" />
@@ -451,43 +455,6 @@
 - **用户反馈**：整合用户体验数据到开发周期
 - **持续改进**：根据反馈和指标优化流程
 
-## 🌐 开源贡献与社区参与
-
-我坚信开源精神和知识共享的力量，积极参与开源社区并贡献自己的专业知识：
-
-<div align="center">
-  <img src="https://img.shields.io/badge/开源项目-10+-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/贡献社区-全球性-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/问题解答-500+-yellow?style=for-the-badge" />
-</div>
-
-### 开源贡献
-
-🔹 **项目维护**
-- **FiveM框架库**：创建并维护多个开源FiveM脚本库，帮助开发者快速构建服务器功能
-- **前端组件库**：贡献现代化UI组件，注重性能优化和可访问性
-- **开发工具**：开发提高开发效率的自动化工具与VSCode扩展
-
-🔹 **社区支持**
-- 活跃参与技术论坛和问答社区，解答开发者问题
-- 组织线上/线下技术研讨会和工作坊
-- 指导新开发者，分享学习路径和资源
-
-### 社区影响
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>开源项目影响</b><br/>
-      创建的开源项目累计获得5000+stars，被数百个商业项目采用，形成了活跃的贡献者社区，不断推动项目发展与创新。
-    </td>
-    <td width="50%">
-      <b>技术社区贡献</b><br/>
-      在国内外技术社区担任版主和技术顾问，组织了20+次线上/线下技术分享活动，直接影响并帮助了10000+开发者成长。
-    </td>
-  </tr>
-</table>
-
 ### 专业认证与资质
 
 <div align="center">
@@ -551,15 +518,13 @@
 
 <div align="center">
   <a href="https://9k-developments.com"><img src="https://img.shields.io/badge/Website-9k--developments.com-blue?style=flat-square" /></a>
-  <a href="mailto:contact@9k-developments.com"><img src="https://img.shields.io/badge/Email-contact@9k--developments.com-green?style=flat-square" /></a>
-  <a href="https://discord.gg/9k-developments"><img src="https://img.shields.io/badge/Discord-9K_Community-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-  <br/>
+  <a href="https://discord.gg/TP5vWw93BA"><img src="https://img.shields.io/badge/Discord-9K_Community-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/9K-Developments"><img src="https://img.shields.io/badge/GitHub-9K--Developments-black?style=flat-square&logo=github" /></a>
-  <a href="https://twitter.com/9KDevelopments"><img src="https://img.shields.io/badge/Twitter-@9KDevelopments-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/9k-dev/"><img src="https://img.shields.io/badge/LinkedIn-9K-0077B5?style=flat-square&logo=linkedin" /></a>
 </div>
 
 ---
+
+<div align="center">感谢您访问我的专业展示。如果您对技术创新、游戏开发或潜在合作感兴趣，欢迎与我联系。让我们用代码与创意点亮世界！💫</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=9K-Developments&color=blueviolet&style=flat-square&label=Profile+Views" />
