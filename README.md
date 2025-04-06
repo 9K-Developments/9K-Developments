@@ -1,28 +1,28 @@
-# <div align="center">🚀 9K | 全栈开发者 🌌</div>
+# <div align="center">🚀 9K | Full Stack Developer 🌌</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=嘿...+我是+9K;全栈开发者+%26+技术艺术家;FiveM脚本开发专家;创新解决方案缔造者" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Hey...+I'm+9K;Full+Stack+Developer+%26+Tech+Artist;FiveM+Script+Development+Expert;Innovative+Solutions+Creator" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/专业-全栈开发-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/位置-中国深圳-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/状态-接受合作-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/经验-10年+-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/项目-100+完成-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expertise-Full_Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Shenzhen,_China-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-10+_Years-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-100+_Completed-purple?style=for-the-badge" />
 </div>
 
-## 🌟 个人简介
+## 🌟 Personal Profile
 
-欢迎莅临我的数字领域！我是**9K**，一位充满激情和创造力的**全栈技术艺术家**。作为一位专注于**创新科技与沉浸式体验**的精英开发者，我将艺术与科技的边界不断推向新高度。
+Welcome to my digital domain! I'm **9K**, a passionate and creative **Full Stack Technology Artist**. As an elite developer focused on **Innovative Technology & Immersive Experiences**, I constantly push the boundaries between art and technology to new heights.
 
-在过去的十年里，我深耕于**FiveM脚本开发**和**高性能UI架构**领域，同时不断探索前沿技术，打造突破性的解决方案，引领行业变革。我的技术理念是：**"代码不仅是逻辑的载体，更是艺术的表达"**。
+Over the past decade, I've deeply specialized in **FiveM Script Development** and **High-Performance UI Architecture**, while continuously exploring cutting-edge technologies to create breakthrough solutions that lead industry transformations. My technology philosophy is: **"Code is not just a vessel for logic, but an expression of art"**.
 
-我的专业领域横跨游戏开发、企业级应用、移动平台和数据分析，以及云架构设计。通过融合多元技术栈，我能够为每个项目注入独特的创新元素和卓越性能。
+My professional domain spans game development, enterprise applications, mobile platforms, data analysis, and cloud architecture design. By integrating diverse technology stacks, I can infuse each project with unique innovation elements and exceptional performance.
 
-目前，我在充满创新活力的科技之都 — **中国深圳** <img src="https://flagcdn.com/16x12/cn.png" width="16" height="12" alt="中国国旗"> 工作，这里是全球技术革新与创意碰撞的核心枢纽！
+Currently, I work in the vibrant tech hub — **Shenzhen, China** <img src="https://flagcdn.com/16x12/cn.png" width="16" height="12" alt="China Flag">, the core nexus of global technological innovation and creative collision!
 
-## 🔮 专业领域
+## 🔮 Professional Domain
 
 <table>
   <tr>
@@ -63,21 +63,21 @@
   </tr>
 </table>
 
-## 🧙‍♂️ 核心价值理念
+## 🧙‍♂️ Core Value Philosophy
 
-> **"技术的终极目标是服务人性，创造价值，而不仅仅是解决问题。"**
+> **"The ultimate goal of technology is to serve humanity, create value, and not just solve problems."**
 
-我始终坚持以下核心价值观指导我的技术创新和项目开发：
+I have always adhered to the following core values in my technological innovation and project development:
 
-- **卓越品质**：每一行代码都经过精心打磨，每一个界面都力求完美
-- **用户至上**：深入理解用户需求，创造超越预期的体验
-- **创新思维**：突破常规思考，寻找独特解决方案
-- **持续学习**：不断探索新技术，保持知识更新与行业前瞻
-- **高效协作**：相信团队的力量，促进开放透明的沟通与协作
+- **Excellence**：Every line of code is meticulously polished, and every interface is力求完美
+- **User-Centered**：Deeply understand user needs and create experiences beyond expectations
+- **Innovative Thinking**：Break through conventional thinking to find unique solutions
+- **Continuous Learning**：Continuously explore new technologies and keep up with industry trends
+- **Efficient Collaboration**：Believe in the power of teams and promote open and transparent communication and collaboration
 
-## 💻 编程语言
+## 💻 Programming Languages
 
-作为一名多才多艺的工程师，我熟练掌握了各种编程语言，每一种语言都是我开发或器械中的关键工具。以下是我用来将复杂问题转化为优雅解决方案的语言：
+As a versatile engineer, I am proficient in various programming languages, each of which is a key tool in my development or tooling. Below are the languages I use to transform complex problems into elegant solutions:
 
 <div align="center">
   <a href="#java"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
@@ -108,36 +108,36 @@
   <a href="#solidity"><img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white" /></a>
 </div>
 
-### 语言专精领域
+### Language Specialization
 
-🔹 **脚本与游戏开发**
-- **Lua**：FiveM服务器脚本、游戏模组与插件开发
-- **C#**：Unity游戏开发、.NET应用与服务
-- **C++**：高性能游戏引擎开发、系统级编程
+🔹 **Scripting and Game Development**
+- **Lua**：FiveM server script, game mod, and plugin development
+- **C#**：Unity game development, .NET applications, and services
+- **C++**：High-performance game engine development, system-level programming
 
-🔹 **Web全栈开发**
-- **JavaScript/TypeScript**：前端框架应用、Node.js后端服务
-- **HTML5/CSS3**：响应式布局、交互式界面设计
-- **PHP**：传统Web应用、CMS系统定制
+🔹 **Full Stack Web Development**
+- **JavaScript/TypeScript**：Frontend framework applications, Node.js backend services
+- **HTML5/CSS3**：Responsive layout, interactive interface design
+- **PHP**：Traditional Web applications, CMS system customization
 
-🔹 **移动与跨平台开发**
-- **Swift/Objective-C**：iOS应用开发与优化
-- **Kotlin/Java**：Android平台应用程序
-- **Dart**：Flutter跨平台移动应用
+🔹 **Mobile and Cross-Platform Development**
+- **Swift/Objective-C**：iOS application development and optimization
+- **Kotlin/Java**：Android platform applications
+- **Dart**：Flutter cross-platform mobile applications
 
-🔹 **数据处理与分析**
-- **Python**：AI/ML模型、数据分析、自动化脚本
-- **R**：统计分析、数据可视化、数据挖掘
-- **Scala**：大数据处理、Spark应用
+🔹 **Data Processing and Analysis**
+- **Python**：AI/ML models, data analysis, automation scripting
+- **R**：Statistical analysis, data visualization, data mining
+- **Scala**：Big data processing, Spark applications
 
-🔹 **系统与云原生开发**
-- **Go**：微服务架构、云原生应用
-- **Rust**：安全关键系统、高性能应用
-- **Bash/PowerShell**：自动化部署、系统管理
+🔹 **System and Cloud Native Development**
+- **Go**：Microservices architecture, cloud native applications
+- **Rust**：Security-critical systems, high-performance applications
+- **Bash/PowerShell**：Automation deployment, system management
 
-## 🛠️ 框架和工具
+## 🛠️ Frameworks and Tools
 
-框架和工具构成了我开发过程的支柱，使我能够高效地构建可扩展的高性能应用程序。我的专业知识涵盖各种框架，每个框架都有其在速开发、模块化架构和强大功能方面的优势。无论是构建动态用户界面、管理后端服务还是部署机器学习模型，我都会利用这些框架来创建有影响力的解决方案：
+Frameworks and tools form the backbone of my development process, enabling me to efficiently build scalable high-performance applications. My professional knowledge covers various frameworks, each with its advantages in speed development, modular architecture, and powerful features. Whether building dynamic user interfaces, managing backend services, or deploying machine learning models, I will utilize these frameworks to create impactful solutions:
 
 <div align="center">
   <a href="#react"><img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -169,33 +169,33 @@
   <a href="#nestjs"><img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
 </div>
 
-### 框架专精领域
+### Framework Specialization
 
-🔹 **前端开发框架**
-- **React生态**：通过React.js、Next.js和Redux构建动态用户界面
-- **Vue体系**：使用Vue.js、Nuxt.js和Vuex创建响应式应用
-- **设计系统**：Tailwind CSS、Bootstrap、Material UI等样式框架
+🔹 **Frontend Development Frameworks**
+- **React Ecosystem**：Dynamic user interfaces through React.js, Next.js, and Redux
+- **Vue Ecosystem**：Responsive applications through Vue.js, Nuxt.js, and Vuex
+- **Design Systems**：Styling frameworks like Tailwind CSS, Bootstrap, Material UI
 
-🔹 **后端技术栈**
-- **Node.js生态**：Express.js、NestJS、Fastify为基础的API和微服务
-- **Python Web框架**：Django、Flask、FastAPI的高效后端服务
-- **企业级Java/C#**：Spring Boot、ASP.NET Core的可扩展业务应用
+🔹 **Backend Technology Stack**
+- **Node.js Ecosystem**：API and microservices based on Express.js, NestJS, Fastify
+- **Python Web Frameworks**：Efficient backend services through Django, Flask, FastAPI
+- **Enterprise-Level Java/C#**：Scalable business applications through Spring Boot, ASP.NET Core
 
-🔹 **移动应用框架**
-- **跨平台解决方案**：Flutter、React Native的统一代码库
-- **原生技术**：SwiftUI、Jetpack Compose的平台特定优化
+🔹 **Mobile Application Frameworks**
+- **Cross-Platform Solutions**：Unified codebase for Flutter, React Native
+- **Native Technologies**：Platform-specific optimizations for SwiftUI, Jetpack Compose
 
-🔹 **人工智能与数据科学**
-- **机器学习框架**：TensorFlow、PyTorch、Scikit-learn的智能模型
-- **数据处理工具**：Pandas、NumPy、Apache Spark的大规模数据分析
+🔹 **Artificial Intelligence and Data Science**
+- **Machine Learning Frameworks**：Intelligent models through TensorFlow, PyTorch, Scikit-learn
+- **Data Processing Tools**：Large-scale data analysis through Pandas, NumPy, Apache Spark
 
-🔹 **游戏开发引擎**
-- **主流引擎**：Unity、Unreal Engine的3D游戏开发
-- **轻量级框架**：Godot、Phaser的独立游戏创作
+🔹 **Game Development Engines**
+- **Mainstream Engines**：3D game development through Unity, Unreal Engine
+- **Lightweight Frameworks**：Independent game creation through Godot, Phaser
 
-## 🛢️ 数据库技术
+## 🛢️ Database Technologies
 
-在数据驱动的世界中，选择正确的数据存储解决方案至关重要。我精通多种数据库技术，从关系型到NoSQL，从内存数据库到时序数据库，能够根据项目需求设计最优的数据架构：
+In the data-driven world, choosing the right data storage solution is crucial. I am proficient in various database technologies, from relational to NoSQL, from in-memory databases to time-series databases, to design the optimal data architecture for each project:
 
 <div align="center">
   <a href="#mysql"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
@@ -212,43 +212,43 @@
   <a href="#influxdb"><img src="https://img.shields.io/badge/INFLUXDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" /></a>
 </div>
 
-### 数据库解决方案设计
+### Database Solution Design
 
-我熟练掌握不同类型数据库的优缺点，能够为各种应用场景设计最合适的数据架构：
+I am proficient in the pros and cons of different types of databases and can design the most suitable data architecture for various application scenarios:
 
-🔹 **关系型数据库**
-- **MySQL/MariaDB**：企业应用的可靠选择，为电子商务平台提供事务支持
-- **PostgreSQL**：地理信息系统与复杂数据类型应用，支持高级分析功能
-- **SQLite**：移动应用的轻量级数据存储，确保离线功能可用
+🔹 **Relational Databases**
+- **MySQL/MariaDB**：Reliable choice for enterprise applications, providing transaction support for e-commerce platforms
+- **PostgreSQL**：Geographic information system and complex data type applications, supporting advanced analytical functions
+- **SQLite**：Lightweight data storage for mobile applications, ensuring offline functionality
 
-🔹 **NoSQL数据库**
-- **MongoDB**：为内容管理系统提供灵活的文档存储
-- **Redis**：高性能缓存与实时排行榜系统，降低主数据库负载
-- **Cassandra**：分布式大规模数据写入，适用于物联网数据收集
+🔹 **NoSQL Databases**
+- **MongoDB**：Flexible document storage for content management systems
+- **Redis**：High-performance caching and real-time leaderboard system, reducing main database load
+- **Cassandra**：Distributed large-scale data writing, suitable for IoT data collection
 
-🔹 **专业数据库**
-- **Elasticsearch**：全文搜索引擎，为产品目录提供快速搜索功能
-- **Neo4j**：关系型图数据库，用于社交网络与复杂关系分析
-- **InfluxDB**：时序数据库，适用于监控指标与传感器数据存储
+🔹 **Professional Databases**
+- **Elasticsearch**：Full-text search engine, providing fast search functionality for product catalog
+- **Neo4j**：Relational graph database, used for social network and complex relationship analysis
+- **InfluxDB**：Time-series database, suitable for monitoring indicators and sensor data storage
 
-### 数据库案例应用
+### Database Case Application
 
 <table>
   <tr>
     <td width="50%">
-      <b>高性能游戏数据架构</b><br/>
-      为FiveM服务器设计的混合数据库架构，使用MySQL存储永久数据，Redis处理实时数据，实现高并发玩家交互与毫秒级响应时间。
+      <b>High-Performance Game Data Architecture</b><br/>
+      Mixed database architecture designed for FiveM server, using MySQL for permanent data storage, Redis for real-time data processing, achieving high concurrency player interaction and millisecond response time.
     </td>
     <td width="50%">
-      <b>分布式电子商务平台</b><br/>
-      结合PostgreSQL和Elasticsearch的双数据库系统，支持精准库存管理和复杂的全文产品搜索功能，提升用户体验与转化率。
+      <b>Distributed E-commerce Platform</b><br/>
+      Dual database system combining PostgreSQL and Elasticsearch, supporting accurate inventory management and complex full-text product search functionality, improving user experience and conversion rate.
     </td>
   </tr>
 </table>
 
-## ☁️ 云技术
+## ☁️ Cloud Technologies
 
-在当今快节奏的数字环境中，云技术是可扩展、安全和高性能基础设施的支柱。凭借在多个云平台方面的深厚专业知识，我专注于设计、部署和维护支持企业级工作负载的弹性系统，从自动化到编排，以下是我使用的云工具和平台的一部分：
+In today's fast-paced digital environment, cloud technology is the pillar of scalable, secure, and high-performance infrastructure. With extensive professional knowledge in multiple cloud platforms, I focus on designing, deploying, and maintaining elastic systems supporting enterprise workload, from automation to orchestration, below are some of the cloud tools and platforms I use:
 
 <div align="center">
   <a href="#aws"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
@@ -274,53 +274,53 @@
   <a href="#cloudrun"><img src="https://img.shields.io/badge/CLOUD_RUN-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
 </div>
 
-### 云架构专精领域
+### Cloud Architecture Specialization
 
-我在云技术领域拥有广泛的专业知识，能够设计、实施和管理复杂的云基础设施：
+I have extensive professional knowledge in the cloud technology field and can design, implement, and manage complex cloud infrastructure:
 
-🔹 **基础设施即代码 (IaC)**
-- **Terraform**：通过声明式代码管理多云基础设施
-- **CloudFormation**：AWS环境的自动化部署
-- **ARM模板**：Azure资源的标准化配置
+🔹 **Infrastructure as Code (IaC)**
+- **Terraform**：Managing multi-cloud infrastructure through declarative code
+- **CloudFormation**：Automated deployment for AWS environment
+- **ARM Templates**：Standardized configuration for Azure resources
 
-🔹 **容器编排与微服务**
-- **Kubernetes**：大规模容器集群管理与服务编排
-- **Docker Swarm**：轻量级容器协调
-- **服务网格**：使用Istio/Linkerd增强微服务通信
+🔹 **Container Orchestration and Microservices**
+- **Kubernetes**：Large-scale container cluster management and service orchestration
+- **Docker Swarm**：Lightweight container coordination
+- **Service Mesh**：Using Istio/Linkerd to enhance microservice communication
 
-🔹 **持续集成/持续部署 (CI/CD)**
-- **GitHub Actions**：代码变更的自动化工作流
-- **Jenkins**：企业级持续集成系统
-- **ArgoCD**：Kubernetes的GitOps持续部署
+🔹 **Continuous Integration/Continuous Deployment (CI/CD)**
+- **GitHub Actions**：Automated workflow for code changes
+- **Jenkins**：Enterprise-level continuous integration system
+- **ArgoCD**：GitOps continuous deployment for Kubernetes
 
-🔹 **监控与可观测性**
-- **Prometheus + Grafana**：实时性能监控与可视化
-- **ELK Stack**：集中式日志分析与管理
-- **Datadog/New Relic**：应用性能监控解决方案
+🔹 **Monitoring and Observability**
+- **Prometheus + Grafana**：Real-time performance monitoring and visualization
+- **ELK Stack**：Centralized log analysis and management
+- **Datadog/New Relic**：Application performance monitoring solutions
 
-🔹 **云安全与合规**
-- **IAM**：细粒度访问控制策略
-- **安全组**：基于网络层的访问限制
-- **密钥管理**：敏感数据的安全存储与使用
+🔹 **Cloud Security and Compliance**
+- **IAM**：Fine-grained access control strategy
+- **Security Groups**：Access restriction based on network layer
+- **Key Management**：Secure storage and use of sensitive data
 
-### 云架构案例应用
+### Cloud Architecture Case Application
 
 <table>
   <tr>
     <td width="50%">
-      <b>高可用性微服务平台</b><br/>
-      基于Kubernetes的全球分布式系统，通过多区域部署和自动扩展实现99.99%的可用性，支持数百万用户同时访问且响应时间低于100ms。
+      <b>High-Availability Microservice Platform</b><br/>
+      Global distributed system based on Kubernetes, achieving 99.99% availability through multi-region deployment and automatic scaling to support millions of users simultaneously with response time below 100ms.
     </td>
     <td width="50%">
-      <b>自动化DevOps流水线</b><br/>
-      集成GitHub Actions、Docker和AWS ECS的自动化部署系统，将代码提交到生产环境的时间从数天减少到15分钟，同时确保测试覆盖率始终高于90%。
+      <b>Automated DevOps Pipeline</b><br/>
+      Automated deployment system integrating GitHub Actions, Docker, and AWS ECS, reducing code submission to production environment time from days to 15 minutes while ensuring test coverage rate always above 90%.
     </td>
   </tr>
 </table>
 
-## 🎮 游戏开发专长
+## 🎮 Game Development Specialization
 
-作为一名资深的FiveM脚本开发者，我擅长创建沉浸式游戏体验和复杂的游戏系统。我的游戏开发专长包括：
+As a seasoned FiveM script developer, I specialize in creating immersive game experiences and complex game systems. My game development specialization includes:
 
 <div align="center">
   <a href="#fivem"><img src="https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=fivem&logoColor=white" /></a>
@@ -333,45 +333,45 @@
   <a href="#webgl"><img src="https://img.shields.io/badge/WEBGL-990000?style=for-the-badge&logo=webgl&logoColor=white" /></a>
 </div>
 
-### 游戏开发核心能力
+### Game Development Core Capabilities
 
-我在游戏开发领域拥有广泛的专业知识，能够从概念到发布全流程参与游戏创作：
+I have extensive professional knowledge in the game development field and can participate in the game creation process from concept to release:
 
-🔹 **FiveM & GTA定制化**
-- **框架开发**：创建模块化、高性能的角色扮演服务器框架
-- **UI设计**：打造美观、直观的游戏界面和HUD系统
-- **脚本系统**：开发复杂的游戏机制和互动元素
-- **性能优化**：确保服务器在高玩家数下保持流畅运行
+🔹 **FiveM & GTA Customization**
+- **Framework Development**：Creating modular, high-performance role-playing server framework
+- **UI Design**：Creating beautiful, intuitive game interfaces and HUD systems
+- **Script System**：Developing complex game mechanisms and interactive elements
+- **Performance Optimization**：Ensuring server smooth operation under high player count
 
-🔹 **3D游戏开发**
-- **Unity引擎**：C#开发跨平台3D和2D游戏
-- **Unreal Engine**：利用蓝图和C++创建高图形质量游戏
-- **Godot引擎**：轻量级独立游戏开发
+🔹 **3D Game Development**
+- **Unity Engine**：C# cross-platform 3D and 2D game development
+- **Unreal Engine**：Using Blueprints and C++ to create high-quality games
+- **Godot Engine**：Lightweight independent game development
 
-🔹 **游戏系统设计**
-- **经济系统**：平衡的游戏内经济与交易机制
-- **任务系统**：引人入胜的故事线和玩家进度追踪
-- **多人联网**：低延迟同步和数据一致性
-- **AI行为**：生动、智能的NPC交互系统
+🔹 **Game System Design**
+- **Economy System**：Balanced game economy and transaction mechanism
+- **Task System**：Engaging storylines and player progress tracking
+- **Multiplayer Networking**：Low-latency synchronization and data consistency
+- **AI Behavior**：Vivid, intelligent NPC interaction system
 
-### 游戏开发案例项目
+### Game Development Case Project
 
 <table>
   <tr>
     <td width="50%">
-      <b>FiveM角色扮演服务器</b><br/>
-      构建完整的城市角色扮演环境，支持300+同时在线玩家，包含就业系统、房地产市场、车辆定制化和社交系统，为玩家创造沉浸式体验。
+      <b>FiveM Role-Playing Server</b><br/>
+      Building a complete city role-playing environment, supporting 300+ simultaneous players, including employment system, real estate market, vehicle customization, and social system, creating immersive experiences for players.
     </td>
     <td width="50%">
-      <b>多平台休闲游戏</b><br/>
-      使用Unity开发的跨平台休闲游戏，支持iOS、Android和网页版，实现无缝的跨设备同步和社交功能，累计下载量超过50万。
+      <b>Multiplatform Casual Game</b><br/>
+      Cross-platform casual game developed using Unity, supporting iOS, Android, and web versions, achieving seamless cross-device synchronization and social functions, with cumulative download volume exceeding 500,000.
     </td>
   </tr>
 </table>
 
-## 🎨 UI/UX 设计能力
+## 🎨 UI/UX Design Capabilities
 
-作为全栈开发者，我不仅精通代码，还擅长创造美观且用户友好的界面。我的设计理念注重用户体验、功能性和视觉美感的完美结合：
+As a full stack developer, I am not only proficient in code but also skilled in creating beautiful and user-friendly interfaces. My design philosophy emphasizes the perfect combination of user experience, functionality, and visual aesthetics:
 
 <div align="center">
   <a href="#figma"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
@@ -386,40 +386,40 @@
   <a href="#invision"><img src="https://img.shields.io/badge/INVISION-FF3366?style=for-the-badge&logo=invision&logoColor=white" /></a>
 </div>
 
-### UI/UX设计方法论
+### UI/UX Design Methodology
 
-我采用用户中心设计方法，确保每个界面既美观又高效：
+I use user-centered design methodology to ensure each interface is both beautiful and efficient:
 
-🔹 **用户体验设计**
-- **用户研究**：深入了解目标群体需求和行为模式
-- **用户流程**：设计直观高效的操作路径
-- **交互设计**：创造自然、愉悦的交互体验
-- **A/B测试**：通过数据驱动优化设计决策
+🔹 **User Experience Design**
+- **User Research**：Deeply understand target group needs and behavior patterns
+- **User Flow**：Design intuitive and efficient operation paths
+- **Interaction Design**：Creating natural, enjoyable interaction experiences
+- **A/B Testing**：Optimizing design decisions through data-driven optimization
 
-🔹 **视觉设计**
-- **UI系统**：创建一致、可扩展的界面组件库
-- **响应式设计**：确保在各种设备上的最佳展示效果
-- **动效设计**：增强用户体验的细微交互动画
-- **品牌一致性**：将品牌元素无缝融入界面设计
+🔹 **Visual Design**
+- **UI System**：Creating consistent, scalable interface component library
+- **Responsive Design**：Ensuring optimal display effect on various devices
+- **Animation Design**：Enhancing subtle interactive animations for user experience
+- **Brand Consistency**：Integrating brand elements seamlessly into interface design
 
-### UI/UX设计案例
+### UI/UX Design Case
 
 <table>
   <tr>
     <td width="50%">
-      <b>游戏UI改版</b><br/>
-      为FiveM服务器重新设计UI系统，采用现代极简风格，提高信息层次清晰度，用户满意度提升85%，同时优化性能减少40%的资源占用。
+      <b>Game UI Redesign</b><br/>
+      Redesigning UI system for FiveM server, adopting modern minimalist style, improving information hierarchy clarity, user satisfaction increased by 85%, while optimizing performance and reducing resource usage by 40%.
     </td>
     <td width="50%">
-      <b>企业应用界面设计</b><br/>
-      为B2B平台设计直观的数据可视化界面，将复杂数据转化为可操作洞察，减少用户决策时间63%，提升转化率42%。
+      <b>Enterprise Application Interface Design</b><br/>
+      Designing intuitive data visualization interface for B2B platform, converting complex data into actionable insights, reducing user decision time by 63%, and improving conversion rate by 42%.
     </td>
   </tr>
 </table>
 
-## 🔧 DevOps 工具链
+## 🔧 DevOps Toolchain
 
-我精通现代DevOps实践和工具，确保代码从开发到部署的流程高效、自动化且可靠：
+I am proficient in modern DevOps practices and tools, ensuring efficient, automated, and reliable code from development to deployment:
 
 <div align="center">
   <a href="#git"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -436,74 +436,74 @@
   <a href="#slack"><img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </div>
 
-### DevOps实践方法论
+### DevOps Practice Methodology
 
-我实施全面的DevOps方法论，促进开发与运维的无缝协作：
+I implement comprehensive DevOps methodology to promote seamless collaboration between development and operations:
 
-🔹 **版本控制与协作**
-- **Git工作流**：实施有效的分支策略和代码审查流程
-- **团队协作**：规范代码提交约定和文档管理
-- **问题跟踪**：结构化管理任务和错误修复
+🔹 **Version Control and Collaboration**
+- **Git Workflow**：Implement effective branch strategy and code review process
+- **Team Collaboration**：Standardize code submission conventions and document management
+- **Issue Tracking**：Structured management of tasks and error fixes
 
-🔹 **自动化与集成**
-- **CI/CD流水线**：构建、测试和部署的完全自动化
-- **基础设施管理**：环境一致性和配置自动化
-- **质量保证**：自动化测试和代码质量检查
+🔹 **Automation and Integration**
+- **CI/CD Pipeline**：Fully automated build, test, and deployment
+- **Infrastructure Management**：Environment consistency and configuration automation
+- **Quality Assurance**：Automated testing and code quality check
 
-🔹 **监控与反馈**
-- **系统监控**：全面的性能和错误追踪
-- **用户反馈**：整合用户体验数据到开发周期
-- **持续改进**：根据反馈和指标优化流程
+🔹 **Monitoring and Feedback**
+- **System Monitoring**：Comprehensive performance and error tracking
+- **User Feedback**：Integrating user experience data into development cycle
+- **Continuous Improvement**：Optimizing process based on feedback and indicators
 
-### 专业认证与资质
+### Professional Certification and Qualification
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_认证解决方案架构师-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud_认证工程师-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity_认证开发者-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum_认证专家-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified Solutions Architect - Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Certified Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_Certified Developer-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum_Certified Professional-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </div>
 
-### 行业荣誉
+### Industry Honor
 
 <table>
   <tr>
     <td width="50%">
-      <b>技术创新奖</b><br/>
-      在国际开发者大会上荣获"最具创新性游戏技术"奖项，表彰在FiveM脚本框架领域的突破性贡献。
+      <b>Innovation Award</b><br/>
+      Won the "Most Innovative Game Technology" award at the international developer conference, recognizing breakthrough contributions in the FiveM script framework field.
     </td>
     <td width="50%">
-      <b>杰出贡献者</b><br/>
-      被评为年度开源社区杰出贡献者，表彰在技术分享和社区建设方面的持续努力。
+      <b>Outstanding Contributor</b><br/>
+      Named the Outstanding Contributor of the Year by the open source community, recognizing continuous efforts in technology sharing and community building.
     </td>
   </tr>
 </table>
 
-### 未来技术探索方向
+### Future Technology Exploration Direction
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-元宇宙技术-6B46C1?style=for-the-badge" alt="元宇宙技术"/>
+      <img src="https://img.shields.io/badge/-Metaverse Technology-6B46C1?style=for-the-badge" alt="Metaverse Technology"/>
       <br />
-      探索沉浸式虚拟世界的创新可能性，构建连接现实与虚拟的下一代互联网体验
+      Exploring innovative possibilities of immersive virtual worlds, building the next-generation internet experience connecting reality and virtual
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-生成式AI-FF6F00?style=for-the-badge" alt="生成式AI"/>
+      <img src="https://img.shields.io/badge/-Generative AI-FF6F00?style=for-the-badge" alt="Generative AI"/>
       <br />
-      研究AI驱动的内容创建与决策系统，提升创意工作流程与效率
+      Researching AI-driven content creation and decision systems to improve creative workflow and efficiency
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Web3技术-3C3C3D?style=for-the-badge" alt="Web3技术"/>
+      <img src="https://img.shields.io/badge/-Web3 Technology-3C3C3D?style=for-the-badge" alt="Web3 Technology"/>
       <br />
-      构建去中心化应用与智能合约，探索区块链技术的实际商业应用
+      Building decentralized applications and smart contracts to explore practical business applications of blockchain technology
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-边缘计算-0078D7?style=for-the-badge" alt="边缘计算"/>
+      <img src="https://img.shields.io/badge/-Edge Computing-0078D7?style=for-the-badge" alt="Edge Computing"/>
       <br />
-      开发低延迟、高效能的边缘计算解决方案，优化物联网体验
+      Developing low-latency, high-performance edge computing solutions to optimize IoT experience
     </td>
   </tr>
 </table>
@@ -512,9 +512,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=9K-Developments&theme=darkhub&row=1&column=6" alt="trophy" />
 </div>
 
-## 📬 联系方式
+## 📬 Contact Information
 
-我随时欢迎有关技术、项目合作或职业机会的讨论。无论您是寻求技术咨询、项目合作伙伴，还是想讨论创新理念，都可以通过以下渠道与我联系：
+I am always happy to discuss technical, project collaboration, or career opportunities. Whether you are seeking technical consultation, project partner, or want to discuss innovative ideas, you can contact me through the following channels:
 
 <div align="center">
   <a href="https://9k-developments.com"><img src="https://img.shields.io/badge/Website-9k--developments.com-blue?style=flat-square" /></a>
@@ -524,7 +524,7 @@
 
 ---
 
-<div align="center">感谢您访问我的专业展示。如果您对技术创新、游戏开发或潜在合作感兴趣，欢迎与我联系。让我们用代码与创意点亮世界！💫</div>
+<div align="center">Thank you for visiting my professional showcase. If you are interested in technological innovation, game development, or potential collaboration, welcome to contact me. Let's light up the world with code and creativity!💫</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=9K-Developments&color=blueviolet&style=flat-square&label=Profile+Views" />
