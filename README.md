@@ -8,6 +8,34 @@ I am currently working in **Shenzhen, China** 🇨🇳🏙️, a vibrant hub of 
 ## My Extensive Programming Language Arsenal
 I have honed my skills in numerous programming languages, each with its unique strengths and applications:
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+  <span style="display: inline-block; background-color: #5d4f85; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">LUA</span>
+  <span style="display: inline-block; background-color: #f7df1e; color: black; padding: 5px 10px; border-radius: 5px; font-weight: bold;">JAVASCRIPT</span>
+  <span style="display: inline-block; background-color: #3178c6; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">TYPESCRIPT</span>
+  <span style="display: inline-block; background-color: #e34c26; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">HTML5</span>
+  <span style="display: inline-block; background-color: #264de4; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">CSS3</span>
+  <span style="display: inline-block; background-color: #3776ab; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">PYTHON</span>
+  <span style="display: inline-block; background-color: #00599c; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">C++</span>
+  <span style="display: inline-block; background-color: #239120; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">C#</span>
+  <span style="display: inline-block; background-color: #007396; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">JAVA</span>
+  <span style="display: inline-block; background-color: #00add8; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">GO</span>
+  <span style="display: inline-block; background-color: #000000; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">RUST</span>
+  <span style="display: inline-block; background-color: #cc342d; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">RUBY</span>
+  <span style="display: inline-block; background-color: #4F5D95; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">PHP</span>
+  <span style="display: inline-block; background-color: #F05138; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">SWIFT</span>
+  <span style="display: inline-block; background-color: #0095D5; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">KOTLIN</span>
+  <span style="display: inline-block; background-color: #FFFFFF; color: #DC322F; padding: 5px 10px; border-radius: 5px; font-weight: bold; border: 1px solid #ccc;">SCALA</span>
+  <span style="display: inline-block; background-color: #5D4F85; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">HASKELL</span>
+  <span style="display: inline-block; background-color: #0298c3; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">PERL</span>
+  <span style="display: inline-block; background-color: #438eff; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">OBJECTIVE-C</span>
+  <span style="display: inline-block; background-color: #6e4a7e; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">ELIXIR</span>
+  <span style="display: inline-block; background-color: #5881d8; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">CLOJURE</span>
+  <span style="display: inline-block; background-color: #198ce7; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">R</span>
+  <span style="display: inline-block; background-color: #bb92ac; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">MATLAB</span>
+  <span style="display: inline-block; background-color: #012456; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">POWERSHELL</span>
+  <span style="display: inline-block; background-color: #89e051; color: black; padding: 5px 10px; border-radius: 5px; font-weight: bold;">BASH</span>
+</div>
+
 - **Lua** 🌙: My go-to language for game scripting and mod development in FiveM, ensuring robust and immersive gameplay experiences. 🎮
 - **JavaScript & TypeScript** 🟨: Essential for crafting interactive, responsive web applications—from dynamic frontend projects with **Vue** to backend services with Node.js. 💻⚡
 - **HTML & CSS** 🌐: Fundamental for designing clean, visually appealing, and user-friendly web interfaces. 🎨🌟
