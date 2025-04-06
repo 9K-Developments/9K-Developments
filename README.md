@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm 9K 👋
 
 ## About Me
-Hello everyone! I'm [Your Name], a passionate full-stack developer and game modder with a deep love for coding in a wide variety of programming languages. My primary focus is on creating **FiveM scripts** and building sleek, high-performance user interfaces, but I also enjoy exploring many other languages and technologies to craft innovative solutions that push boundaries. 🚀💡✨
+Hello everyone! I'm 9K, a passionate full-stack developer and game modder with a deep love for coding in a wide variety of programming languages. My primary focus is on creating **FiveM scripts** and building sleek, high-performance user interfaces, but I also enjoy exploring many other languages and technologies to craft innovative solutions that push boundaries. 🚀💡✨
 
 I am currently working in **Shenzhen, China** 🇨🇳🏙️, a vibrant hub of innovation where technology and creativity flourish!
 
