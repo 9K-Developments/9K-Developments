@@ -32,6 +32,9 @@
   <a href="#swift"><img src="https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
   <a href="#yaml"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge" /></a>
   <a href="#go"><img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="#ruby"><img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
+  <a href="#rust"><img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="#php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 </div>
 
 ## 🛠️ 框架和工具
@@ -54,6 +57,29 @@
   <a href="#rails"><img src="https://img.shields.io/badge/RUBY_ON_RAILS-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
   <a href="#spring"><img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
   <a href="#aspnet"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <br/>
+  <a href="#nextjs"><img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#nuxtjs"><img src="https://img.shields.io/badge/NUXT.JS-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" /></a>
+  <a href="#tailwind"><img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="#electron"><img src="https://img.shields.io/badge/ELECTRON-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
+  <a href="#pytorch"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+</div>
+
+## 🛢️ 数据库技术
+
+在数据驱动的世界中，选择正确的数据存储解决方案至关重要。我精通多种数据库技术，从关系型到NoSQL，从内存数据库到时序数据库，能够根据项目需求设计最优的数据架构：
+
+<div align="center">
+  <a href="#mysql"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="#postgresql"><img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#mongodb"><img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#redis"><img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+  <a href="#elasticsearch"><img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+  <br/>
+  <a href="#cassandra"><img src="https://img.shields.io/badge/CASSANDRA-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" /></a>
+  <a href="#sqlite"><img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="#mariadb"><img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+  <a href="#dynamodb"><img src="https://img.shields.io/badge/DYNAMODB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /></a>
 </div>
 
 ## ☁️ 云技术
@@ -72,6 +98,10 @@
   <br/>
   <a href="#salesforce"><img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
   <a href="#cloudflare"><img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="#github-actions"><img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
+  <a href="#gitlab-ci"><img src="https://img.shields.io/badge/GITLAB_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="#prometheus"><img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
+  <a href="#grafana"><img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
 </div>
 
 ## 🎮 游戏开发专长
@@ -86,6 +116,53 @@
   <a href="#roblox"><img src="https://img.shields.io/badge/ROBLOX-000000?style=for-the-badge&logo=roblox&logoColor=white" /></a>
 </div>
 
+## 🎨 UI/UX 设计能力
+
+作为全栈开发者，我不仅精通代码，还擅长创造美观且用户友好的界面。我的设计理念注重用户体验、功能性和视觉美感的完美结合：
+
+<div align="center">
+  <a href="#figma"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="#adobe-xd"><img src="https://img.shields.io/badge/ADOBE_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" /></a>
+  <a href="#photoshop"><img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></a>
+  <a href="#illustrator"><img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /></a>
+  <a href="#sketch"><img src="https://img.shields.io/badge/SKETCH-F7B500?style=for-the-badge&logo=sketch&logoColor=black" /></a>
+</div>
+
+## 🔧 DevOps 工具链
+
+我精通现代DevOps实践和工具，确保代码从开发到部署的流程高效、自动化且可靠：
+
+<div align="center">
+  <a href="#git"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#github"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#gitlab"><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="#bitbucket"><img src="https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
+  <a href="#circleci"><img src="https://img.shields.io/badge/CIRCLECI-343434?style=for-the-badge&logo=circleci&logoColor=white" /></a>
+  <a href="#travis"><img src="https://img.shields.io/badge/TRAVIS_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" /></a>
+</div>
+
+## 🚀 精选项目案例
+
+### 🎮 高级FiveM服务器框架
+开发了一套完整的FiveM服务器框架，包含角色扮演所需的所有核心系统：经济系统、库存管理、职业系统、车辆定制化等。
+- **技术栈**: Lua, JavaScript, MySQL, Redis
+- **特点**: 高性能、模块化设计、低资源占用、无缝集成
+
+### 💼 企业级电子商务平台
+为多家企业设计并实现了全功能电子商务解决方案，支持多渠道销售、库存管理和客户关系管理。
+- **技术栈**: React, Node.js, PostgreSQL, Docker, AWS
+- **成果**: 提高销售额30%，优化用户体验，降低运营成本
+
+### 📱 跨平台移动应用
+开发了多款高评分移动应用，覆盖iOS和Android平台，为用户提供流畅、直观的使用体验。
+- **技术栈**: Flutter, Firebase, Swift, Kotlin
+- **特点**: 原生体验、高性能、离线功能支持
+
+### 🤖 AI驱动的数据分析工具
+构建了智能数据分析平台，利用机器学习算法自动处理和分析大规模数据集，生成可操作的商业洞察。
+- **技术栈**: Python, TensorFlow, Django, React, AWS
+- **成果**: 减少数据处理时间90%，提高预测准确率23%
+
 ## 🏆 专业成就与协作
 
 我很荣幸能在全球科技创新中心 **中国深圳** 🇨🇳 施展才华，与顶尖人才和前瞻性组织共同突破游戏开发和网络技术的边界。探索我的开发组织与开创性项目: [9K Developments](https://github.com/9K-Developments) 🚀💻
@@ -94,10 +171,19 @@
 
 我致力于不断学习与探索前沿科技，通过整合多元编程语言和创新技术，打造引领行业的开创性项目，将创意构想转化为改变世界的解决方案。让我们共同编写未来！✨🚀💡
 
+## 📊 GitHub 统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9K-Developments&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9K-Developments&theme=radical" alt="GitHub Streak" />
+</div>
+
 ---
 
 <div align="center">
   <a href="https://9k-developments.com"><img src="https://img.shields.io/badge/Website-9k--developments.com-blue?style=flat-square" /></a>
+  <a href="mailto:contact@9k-developments.com"><img src="https://img.shields.io/badge/Email-contact@9k--developments.com-green?style=flat-square" /></a>
+  <a href="https://discord.gg/9k-developments"><img src="https://img.shields.io/badge/Discord-9K_Community-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 </div>
 
 <div align="center">感谢您访问我的专业展示。如果您对技术创新、游戏开发或潜在合作感兴趣，欢迎与我联系。让我们用代码与创意点亮世界！💫</div>
