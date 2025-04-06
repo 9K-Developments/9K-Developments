@@ -4,13 +4,72 @@
   <img src="https://img.shields.io/badge/专业-全栈开发-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/位置-中国深圳-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/状态-接受合作-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/经验-10年+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/项目-100+完成-purple?style=for-the-badge" />
 </div>
 
 ## 🌟 个人简介
 
-欢迎莅临我的数字领域！作为一位专注于**创新科技与沉浸式体验**的精英全栈开发者，我将艺术与科技的边界不断推向新高度。我在**FiveM脚本开发**和**高性能UI架构**领域深耕多年，同时不断探索前沿技术，打造突破性的解决方案，引领行业变革。🚀💡✨
+欢迎莅临我的数字领域！我是**9K**，一位充满激情和创造力的**全栈技术艺术家**。作为一位专注于**创新科技与沉浸式体验**的精英开发者，我将艺术与科技的边界不断推向新高度。
+
+在过去的十年里，我深耕于**FiveM脚本开发**和**高性能UI架构**领域，同时不断探索前沿技术，打造突破性的解决方案，引领行业变革。我的技术理念是：**"代码不仅是逻辑的载体，更是艺术的表达"**。
+
+我的专业领域横跨游戏开发、企业级应用、移动平台和数据分析，以及云架构设计。通过融合多元技术栈，我能够为每个项目注入独特的创新元素和卓越性能。
 
 目前，我在充满创新活力的科技之都 — **中国深圳** 🇨🇳 工作，这里是全球技术革新与创意碰撞的核心枢纽！
+
+## 🔮 专业领域
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91-blueviolet?style=for-the-badge" alt="游戏开发"/>
+      <br />
+      构建沉浸式游戏体验，从脚本系统到复杂框架，打造玩家难忘的互动世界
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8-blue?style=for-the-badge" alt="企业应用"/>
+      <br />
+      设计高效可扩展的企业级解决方案，优化工作流程，提升业务价值
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1-orange?style=for-the-badge" alt="界面设计"/>
+      <br />
+      创造兼具美学价值与用户体验的界面艺术，让技术与设计完美融合
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E4%BA%91%E6%9E%B6%E6%9E%84-green?style=for-the-badge" alt="云架构"/>
+      <br />
+      构建高可用、安全且可扩展的云基础设施，支持全球化业务需求
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-red?style=for-the-badge" alt="数据分析"/>
+      <br />
+      挖掘数据价值，转化为可行的业务洞察和战略决策支持
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91-teal?style=for-the-badge" alt="移动开发"/>
+      <br />
+      打造跨平台移动应用，实现流畅体验与原生性能的完美结合
+    </td>
+  </tr>
+</table>
+
+## 🧙‍♂️ 核心价值理念
+
+> **"技术的终极目标是服务人性，创造价值，而不仅仅是解决问题。"**
+
+我始终坚持以下核心价值观指导我的技术创新和项目开发：
+
+- **卓越品质**：每一行代码都经过精心打磨，每一个界面都力求完美
+- **用户至上**：深入理解用户需求，创造超越预期的体验
+- **创新思维**：突破常规思考，寻找独特解决方案
+- **持续学习**：不断探索新技术，保持知识更新与行业前瞻
+- **高效协作**：相信团队的力量，促进开放透明的沟通与协作
 
 ## 💻 编程语言
 
@@ -35,7 +94,42 @@
   <a href="#ruby"><img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
   <a href="#rust"><img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
   <a href="#php"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <br/>
+  <a href="#kotlin"><img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+  <a href="#dart"><img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="#r"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+  <a href="#scala"><img src="https://img.shields.io/badge/SCALA-DC322F?style=for-the-badge&logo=scala&logoColor=white" /></a>
+  <a href="#haskell"><img src="https://img.shields.io/badge/HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /></a>
+  <a href="#perl"><img src="https://img.shields.io/badge/PERL-39457E?style=for-the-badge&logo=perl&logoColor=white" /></a>
+  <a href="#solidity"><img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white" /></a>
 </div>
+
+### 语言专精领域
+
+🔹 **脚本与游戏开发**
+- **Lua**：FiveM服务器脚本、游戏模组与插件开发
+- **C#**：Unity游戏开发、.NET应用与服务
+- **C++**：高性能游戏引擎开发、系统级编程
+
+🔹 **Web全栈开发**
+- **JavaScript/TypeScript**：前端框架应用、Node.js后端服务
+- **HTML5/CSS3**：响应式布局、交互式界面设计
+- **PHP**：传统Web应用、CMS系统定制
+
+🔹 **移动与跨平台开发**
+- **Swift/Objective-C**：iOS应用开发与优化
+- **Kotlin/Java**：Android平台应用程序
+- **Dart**：Flutter跨平台移动应用
+
+🔹 **数据处理与分析**
+- **Python**：AI/ML模型、数据分析、自动化脚本
+- **R**：统计分析、数据可视化、数据挖掘
+- **Scala**：大数据处理、Spark应用
+
+🔹 **系统与云原生开发**
+- **Go**：微服务架构、云原生应用
+- **Rust**：安全关键系统、高性能应用
+- **Bash/PowerShell**：自动化部署、系统管理
 
 ## 🛠️ 框架和工具
 
@@ -63,7 +157,37 @@
   <a href="#tailwind"><img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="#electron"><img src="https://img.shields.io/badge/ELECTRON-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
   <a href="#pytorch"><img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <br/>
+  <a href="#laravel"><img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="#angular"><img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <a href="#fastapi"><img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="#graphql"><img src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+  <a href="#nestjs"><img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
 </div>
+
+### 框架专精领域
+
+🔹 **前端开发框架**
+- **React生态**：通过React.js、Next.js和Redux构建动态用户界面
+- **Vue体系**：使用Vue.js、Nuxt.js和Vuex创建响应式应用
+- **设计系统**：Tailwind CSS、Bootstrap、Material UI等样式框架
+
+🔹 **后端技术栈**
+- **Node.js生态**：Express.js、NestJS、Fastify为基础的API和微服务
+- **Python Web框架**：Django、Flask、FastAPI的高效后端服务
+- **企业级Java/C#**：Spring Boot、ASP.NET Core的可扩展业务应用
+
+🔹 **移动应用框架**
+- **跨平台解决方案**：Flutter、React Native的统一代码库
+- **原生技术**：SwiftUI、Jetpack Compose的平台特定优化
+
+🔹 **人工智能与数据科学**
+- **机器学习框架**：TensorFlow、PyTorch、Scikit-learn的智能模型
+- **数据处理工具**：Pandas、NumPy、Apache Spark的大规模数据分析
+
+🔹 **游戏开发引擎**
+- **主流引擎**：Unity、Unreal Engine的3D游戏开发
+- **轻量级框架**：Godot、Phaser的独立游戏创作
 
 ## 🛢️ 数据库技术
 
