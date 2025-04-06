@@ -512,6 +512,17 @@ I implement comprehensive DevOps methodology to promote seamless collaboration b
   <img src="https://github-profile-trophy.vercel.app/?username=9K-Developments&theme=darkhub&row=1&column=6" alt="trophy" />
 </div>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9K-Developments&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9K-Developments&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9K-Developments&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ## 📬 Contact Information
 
 I welcome discussions about technology, project collaborations, or career opportunities. Whether you're seeking technical consultation, project partnership, or want to discuss innovative ideas, feel free to connect with me through the following channels:
